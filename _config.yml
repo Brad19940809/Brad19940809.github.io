@@ -10,8 +10,8 @@
 ############################
 
 baseurl: /docs
-production_url : http://<username>.github.io.com/blog
-BASE_PATH : http://<username>.com/blog
+production_url : http://<username>.github.io.com/docs
+BASE_PATH : http://<username>.com/docs
 
 # Name of website
 title: My Website
