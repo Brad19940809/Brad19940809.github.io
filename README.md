@@ -1,2 +1,2 @@
-# Brad19940809.github.io
+# Brad-luo.github.io
 My own personal site
