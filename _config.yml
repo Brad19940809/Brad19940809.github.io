@@ -9,7 +9,9 @@
 # --- Required options --- #
 ############################
 
-baseurl: /docs/ 
+baseurl: /docs
+production_url : http://<username>.github.io.com/blog
+BASE_PATH : http://<username>.com/blog
 
 # Name of website
 title: My Website
