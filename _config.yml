@@ -9,6 +9,8 @@
 # --- Required options --- #
 ############################
 
+baseurl: /docs/ 
+
 # Name of website
 title: My Website
 
